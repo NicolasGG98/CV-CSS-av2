@@ -1,0 +1,25 @@
+#contenedor {
+    background-color: white;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#rojo {
+    height: 250px;
+    width: 250px;
+    background-color: #b65050;
+}
+
+#azul {
+    height: 250px;
+    width: 250px;
+    background-color: #41B8E5;
+}
+
+#verde {
+    height: 250px;
+    width: 250px;
+    background-color: #09ff00;
+}

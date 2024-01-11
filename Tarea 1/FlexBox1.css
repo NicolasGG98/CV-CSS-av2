@@ -1,0 +1,31 @@
+#contenedor {
+    border: 1px solid #aaa;
+    background-color: #dddddd;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#rojo {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #ff0000;
+    background-color: #b65050;
+}
+
+#azul {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #328EB2;
+    background-color: #41B8E5;
+}
+
+#verde {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #3aa03f;
+    background-color: #09ff00;
+}
+
